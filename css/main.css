@@ -18,16 +18,14 @@ body {
 header {
   color: white;
   background-color: #d05c2e;
+  padding: .5em 0 0;
+  margin: 0 0 .7rem;
   display: inline-block;
   text-align: center;
 }
 
 h1 {
   font-size: 2rem;
-  padding: .5em 0 0;
-  margin: 0 0 .7rem;
-  border: 1px;
-  border-color: #a63f38
   text-align: center;
 }
 
