@@ -43,6 +43,7 @@ img {
 
 nav li{
   display: inline;
+  text-align: center;
 }
 
 nav a {
