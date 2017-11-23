@@ -20,8 +20,8 @@ header {
   background-color: #d05c2e;
   padding: .5em 0 0;
   margin: 0 0 .7rem;
-  display: inline-block;
   text-align: center;
+  overflow: hidden;
 }
 
 h1 {
@@ -42,7 +42,13 @@ img {
 }
 
 nav li{
-  display: inline;
+  float: left;
+  list-style-type: none;
+  width: 33.3%;
+}
+
+ul {
+  padding: 0;
 }
 
 nav a {
@@ -51,17 +57,14 @@ nav a {
   padding: .4rem 0;
   margin: .3rem;
   text-decoration: none;
-  display: inline-block;
+  display: block;
   text-align: center;
-  list-style-type: none;
 }
 
 div {
   text-shadow: center;
 }
 
-nav li:hover {
+nav a:hover {
   background-color: #a63f38;
-  padding: .4rem 0;
-  margin: .3rem;
 }
