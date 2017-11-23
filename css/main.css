@@ -11,6 +11,8 @@ html {
 header {
   font-family: 'Merriweather', serif;
   background-color: #d05c2e;
+  display: inline-block;
+  text-align: center;
 }
 
 h1 {
