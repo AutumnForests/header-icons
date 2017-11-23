@@ -62,4 +62,6 @@ div {
 
 nav li:hover {
   background-color: #a63f38;
+  padding: .4rem 0;
+  margin: .3rem;
 }
