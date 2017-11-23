@@ -13,6 +13,7 @@ body {
   color: white;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 header {
@@ -27,6 +28,7 @@ header {
 
 h1 {
   font-size: 2rem;
+  text-align: center;
 }
 
 img {
@@ -50,7 +52,6 @@ nav li{
   display: inline-block;
   text-align: center;
   list-style-type: none;
-  list-style: none;
 }
 
 nav li:hover {
