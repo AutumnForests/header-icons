@@ -12,6 +12,7 @@ header {
   font-family: 'Merriweather', serif;
   color: white;
   background-color: #d05c2e;
+  padding: .5em 0 0;
   display: inline-block;
   text-align: center;
 }
