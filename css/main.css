@@ -8,6 +8,12 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  font-family: 'Merriweather', serif;
+  color: white;
+  background-color: #d05c2e;
+}
+
 header {
   font-family: 'Merriweather', serif;
   color: white;
@@ -24,6 +30,14 @@ h1 {
 
 img {
   width: 40px;
+}
+
+.grain-left {
+  float: left;
+}
+
+.grain-right {
+  float: right;
 }
 
 nav li{
