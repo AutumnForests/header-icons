@@ -9,6 +9,7 @@ html {
 }
 
 header {
+  font-family: 'Merriweather', serif;
   background-color: #d05c2e;
 }
 
@@ -16,8 +17,12 @@ h1 {
   font-size: 2rem;
 }
 
-nav {
+nav li{
+  font-family: 'Merriweather', serif;
   font-size: 1.125rem;
+  display: inline-block;
+  text-align: center;
+  list-style-type: none;
 }
 
 nav li:hover {
